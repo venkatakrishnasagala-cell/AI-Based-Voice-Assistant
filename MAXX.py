@@ -49,7 +49,7 @@ def take_command():
 
 def run_assistant(user_command):
     if 'hello' in user_command:
-        speak("Hello Dileep, how can I help you?")
+        speak("Hello krishna, how can I help you?")
 
     elif 'open google' in user_command:
         speak("Opening Google")
